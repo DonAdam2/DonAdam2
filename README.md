@@ -9,7 +9,7 @@ a strong emphasis on customer-centrality and business-focused solution developme
 - I'm currently working on the first born e-signature app in the middle east.
 - I'm looking to collaborate on any open source React project.
 - I'm looking for help with 2 projects "webpack-react-boilerplate" and "webpack-react-typescript-boilerplate" which I created to help others in creating React apps (JavaScript, TypeScript) faster.
-- I'm currently learning AWS serverless apps.
+- I'm currently learning AWS serverless apps and Python.
 - Fun fact: I have a total of 107 repositories, but they are not showing because I organized them into multiple organizations.
 
 
