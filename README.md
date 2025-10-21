@@ -1,6 +1,6 @@
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="assets/coding.gif" >
-Passionate Front-End engineer with 7+ years of experience in the development
+Passionate Front-End engineer with 8+ years of experience in the development
 of applications across various industries, focused on React.js, Next.js,
 Angular, and React Native technologies. I strive to take ownership of the
 software solutions I deliver and I don’t back down from challenges, having
