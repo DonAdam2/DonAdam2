@@ -1,16 +1,14 @@
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="assets/coding.gif" >
-Passionate Front-End engineer with 9+ years of experience in the development
-of applications across various industries, focused on React.js, Next.js,
-Angular, and React Native technologies. I strive to take ownership of the
-software solutions I deliver and I don’t back down from challenges, having
-a strong emphasis on customer-centrality and business-focused solution development.<br><br>
+Passionate Front-End engineer with 9+ years of experience building applications across various industries, specialising in React.js, Next.js, Angular, and React Native. Alongside that, I'm growing as an AI engineer through my master's in Artificial Intelligence at the University of Bath, working with machine learning and PyTorch to build AI-powered products. I take ownership of the software I deliver, I don't back down from challenges, and I build with a strong focus on customers and business outcomes.<br><br>
 
-- I'm currently working on the first born e-signature app in the middle east.
-- I'm looking to collaborate on any open source React project.
-- I'm looking for help with 2 projects "webpack-react-boilerplate" and "webpack-react-typescript-boilerplate" which I created to help others in creating React apps (JavaScript, TypeScript) faster.
-- I'm currently learning AWS serverless apps and Python.
-- Fun fact: I have a total of 107 repositories, but they are not showing because I organized them into multiple organizations.
+- 🎓 I'm currently a master's student at the University of Bath, studying Artificial Intelligence.
+- 🤖 I'm very interested in machine learning and AI.
+- 💼 I'm currently working on the first-born e-signature app in the Middle East.
+- 🤝 I'm looking to collaborate on any open source React project.
+- 🙏 I'm looking for help with 2 projects, "webpack-react-boilerplate" and "webpack-react-typescript-boilerplate", which I created to help others create React apps (JavaScript, TypeScript) faster.
+- 🌱 I'm currently learning AWS serverless apps and Python.
+- ⚡ Fun fact: I have a total of 107 repositories, but they are not showing because I organized them into multiple organizations.
 
 
 ## 🌐 Socials:
